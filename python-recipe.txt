@@ -1,0 +1,8 @@
+end to end -Python-optimization problem
+adhoc "statistics"- R
+bindings and modelling-python
+version amangement- python
+
+anaconda prompt
+ipython notebook
+ipython2
